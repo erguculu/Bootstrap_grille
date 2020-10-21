@@ -1,0 +1,22 @@
+.col-1 {
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 1px;
+    height: 4vw;
+}
+
+#grey {
+    background-color: rgb(58, 56, 56);
+}
+
+#orange {
+    background-color: orange;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#black {
+    background-color: black;
+}
