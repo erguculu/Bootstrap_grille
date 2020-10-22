@@ -5,18 +5,18 @@
     height: 4vw;
 }
 
-#grey {
+.grey {
     background-color: rgb(58, 56, 56);
 }
 
-#orange {
+.orange {
     background-color: orange;
 }
 
-#yellow {
+.yellow {
     background-color: yellow;
 }
 
-#black {
+.black {
     background-color: black;
 }
